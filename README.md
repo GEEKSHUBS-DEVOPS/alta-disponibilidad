@@ -169,6 +169,7 @@ producto de Digital Ocean, que nos provee un cluster de K8S preconfigurado aunqu
 ## práctica: HPA ( Horizontal Pod Autoscaler )
 efectuando esta practica sobre microk8s (utilizado en otras clases ) entenderemos los mecanismos por los cuales K8S gestiona la movilidad de los pods a través de los nodos, agregando o eliminando pods según los criterios configurados y la necesidad en cada instante.
 [https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/)
+> deplegar en el cluster movies-api con HPA
 
 ## práctica: CA ( Cluster Autoscaler)
 esta practica requiere mucho tiempo, pero iremos avanzando hasta donde sea posible
