@@ -150,6 +150,14 @@ Cabe notar que las técnicas de auto escalado no estarán disponibles ya que la 
 
 
 > Practica:  AWS Auto Scaling
+    instalar docker en imagen EC2 
+    https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
+
+    añadir script start.sh
+    https://github.com/GEEKSHUBS-DEVOPS2020/alta-disponibilidad/blob/master/start.sh
+
+    
+
 
 # Kubernetes, cluster autoescalado.
 
